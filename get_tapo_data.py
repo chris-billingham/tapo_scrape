@@ -3,6 +3,7 @@ import pandas as pd
 from dotenv import load_dotenv
 import os
 
+# load in .env
 load_dotenv()
 
 # connect to tapo device
